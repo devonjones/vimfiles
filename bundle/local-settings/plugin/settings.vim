@@ -13,3 +13,4 @@ set tabstop=4
 set colorcolumn=80
 
 filetype plugin on
+filetype indent on
